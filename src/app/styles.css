@@ -1,0 +1,121 @@
+/* ADMIN CSS */
+
+.label.mainTotalSalesText{
+    -fx-font-size: 18px;
+    -fx-font-weight: bold;
+}
+
+.button.changeDrink{
+    -fx-background-color:#f40101;
+    -fx-text-fill:white;
+}
+.button.changeDrink:hover{
+    -fx-background-color:#fc3c3c;
+    -fx-text-fill:black;
+}
+
+.label.mainTitle {
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+}
+.label.totalSalesLabel{
+    -fx-font-size: 18px;
+    -fx-font-weight: bold;
+}
+
+.label.slotNum {
+    -fx-font-size: 16px;
+}
+
+.button.addButton{
+    -fx-background-color:#8eaff5;
+    -fx-border-color: #000000;
+    -fx-border-width: 2px;
+    -fx-text-fill:white;
+}
+.button.addButton:hover{
+    -fx-background-color: #c6d4f4;
+    -fx-text-fill:black;
+}
+.button.addButton1{ /* GRILLED CHEESE */
+    -fx-background-color:#f48507;
+    -fx-text-fill:white;
+    -fx-border-color: #000000;
+    -fx-border-width: 2px;
+}
+.button.addButton1:hover{
+    -fx-background-color: #f9af5b;
+    -fx-text-fill:black;
+}
+
+/* CONTROLLER CSS */
+.label.priceAndQuantity{
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+}
+.button.quitProgramButton{
+    -fx-font-weight: bold;
+    -fx-text-fill: #000000;
+    -fx-background-color: #fdfdfd;
+    -fx-border-color: #f40707;
+    -fx-border-width: 2px;
+}
+.button.quitProgramButton:hover{
+    -fx-background-color: #f40707;
+    -fx-text-fill: #fdfdfd;
+}
+
+.button.clearAllButton{
+    -fx-font-weight: bold;
+    -fx-text-fill: #000000;
+    -fx-background-color: #fdfdfd;
+    -fx-border-color: #e4f407;
+    -fx-border-width: 2px;
+}
+
+.button.clearAllButton:hover{
+    -fx-background-color: #e4f407;
+    -fx-text-fill: #000000;
+}
+
+.button.button1{
+    -fx-font-weight: bold;
+    -fx-text-fill: #000000;
+    -fx-background-color: #fdfdfd;
+    -fx-border-color: #f48507;
+    -fx-border-width: 2px;
+}
+.button.button1:hover{
+    -fx-background-color: #f48507;
+    -fx-text-fill: #fdfdfd;
+}
+
+.label {
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+}
+
+.button {
+    -fx-font-weight: bold;
+    -fx-text-fill: #000000;
+    -fx-background-color: #ffffff;
+    -fx-border-color: #8eaff5;
+    -fx-border-width: 2px;
+}
+.button:hover {
+    -fx-background-color: #8eaff5;
+    -fx-text-fill: #ffffff;
+}
+
+.text-area {
+    -fx-font-size: 25px;
+    -fx-wrap-text: true;
+}
+
+.vbox {
+    -fx-alignment: center;
+    -fx-pref-height: 125px;
+    -fx-pref-width: 140px;
+    -fx-spacing: 5px;
+}
+

@@ -1,0 +1,8 @@
+# Ignore Pictures folder
+Pictures/
+
+# Ignore compiled Java classes
+*.class
+
+# Ignore bin directory (contains compiled files)
+bin/
